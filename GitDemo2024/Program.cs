@@ -12,7 +12,7 @@
             Console.WriteLine("Test line staging");
             Console.WriteLine("Från Dimitris!!!");
 
-            Console.WriteLine("From Jonathans branch");
+            Console.WriteLine("From Jonathans branch som han jobbat hårt med :)");
         }
     }
 }
