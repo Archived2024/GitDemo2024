@@ -12,7 +12,10 @@
             Console.WriteLine("Test line staging");
             Console.WriteLine("Från Dimitris!!!");
 
-            Console.WriteLine("From Jonathans branch");
+            Console.WriteLine("Från Jonathans branch");
+            Console.WriteLine("La till lite mer!"); 
+
+
         }
     }
 }
