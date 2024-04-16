@@ -11,6 +11,8 @@
 
             Console.WriteLine("Test line staging");
             Console.WriteLine("Från Dimitris!!!");
+
+            Console.WriteLine("From Jonathans branch");
         }
     }
 }
