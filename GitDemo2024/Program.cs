@@ -16,6 +16,8 @@
             Console.WriteLine("La till lite mer!"); 
 
 
+            Console.WriteLine("This is wrong")
+
         }
     }
 }
