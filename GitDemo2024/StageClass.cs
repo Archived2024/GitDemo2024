@@ -8,5 +8,6 @@ namespace GitDemo2024
 {
     internal class StageClass
     {
+        
     }
 }
