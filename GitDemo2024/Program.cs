@@ -9,7 +9,8 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
 
-            Console.WriteLine("Test line staging"); 
+            Console.WriteLine("Test line staging");
+            Console.WriteLine("Från Dimitris!!!");
         }
     }
 }
